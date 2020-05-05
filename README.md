@@ -16,5 +16,17 @@ Assignments for Algorithmic Toolbox on Coursera
 - [Sum of Two Digits](/week1_programming_challenges/1_sum_of_two_digits/APlusB.py)
 - [Maximum Pairwise Product](/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.py)
 
+### Week 2- Algorithmic Warm-up ([PDF](/week2_algorithmic_warmup/week2_algorithmic_warmup.pdf))
+
+- [Fibonacci Number](week2_algorithmic_warmup/1_fibonacci_number/fibonacci.py)
+- [Last Digit of a Large Fibonacci Number](week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.py)
+- [Greatest Common Divisor](week2_algorithmic_warmup/3_greatest_common_divisor/gcd.py)
+- [Least Common Multiple](week2_algorithmic_warmup/4_least_common_multiple/lcm.py)
+- [Fibonacci Number Again](week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.py)
+- [Last Digit of the Sum of Fibonacci Numbers](week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.py)
+- [Last Digit of the Sum of Fibonacci Numbers Again](week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.py)
+- [Last Digit of the Sum of Squares of Fibonacci Numbers](week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.py)
+
+
 
 
