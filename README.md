@@ -11,6 +11,8 @@ Assignments for Algorithmic Toolbox on Coursera
 
 **Disclaimer:** The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
 
+**Refernce Book:** [***Learning Algorithms Through Programming and Puzzle Solving by Alexander S. Kulikov, Pavel Pevzner***](Learning Algorithms Through Programming and Puzzle Solving by Alexander S. Kulikov, Pavel Pevzner (z-lib.org).pdf)
+
 ### Week 1- Programming Challenges ([PDF](/week1_programming_challenges/week1_programming_challenges.pdf))
 
 - [Sum of Two Digits](/week1_programming_challenges/1_sum_of_two_digits/APlusB.py)
