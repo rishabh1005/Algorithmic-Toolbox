@@ -27,6 +27,16 @@ Assignments for Algorithmic Toolbox on Coursera
 - [Last Digit of the Sum of Fibonacci Numbers Again](week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.py)
 - [Last Digit of the Sum of Squares of Fibonacci Numbers](week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.py)
 
+### Week 3- Greedy Algorithms ([PDF](week3_greedy_algorithms/week3_greedy_algorithms.pdf))
+
+- [Money Change](week3_greedy_algorithms/1_money_change/change.py)
+- [Maximum Value of the Loot (Fractional Knapsack)](week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.py)
+- [Car Fueling](week3_greedy_algorithms/3_car_fueling/car_fueling.py)
+- [Maximum Advertisement Revenue (Maximum Dot Product)](week3_greedy_algorithms/4_maximum_advertisement_revenue/dot_product.py)
+- [Collecting Signatures (Covering Segments by Points)](week3_greedy_algorithms/5_collecting_signatures/covering_segments.py)
+- [Maximum Number of Prizes (Different Summands)](week3_greedy_algorithms/6_maximum_number_of_prizes/different_summands.py)
+- [Maximum Salary (Largest Number)](week3_greedy_algorithms/7_maximum_salary/largest_number.py)
+
 
 
 
