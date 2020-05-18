@@ -39,6 +39,36 @@ Assignments for Algorithmic Toolbox on Coursera
 - [Maximum Number of Prizes (Different Summands)](week3_greedy_algorithms/6_maximum_number_of_prizes/different_summands.py)
 - [Maximum Salary (Largest Number)](week3_greedy_algorithms/7_maximum_salary/largest_number.py)
 
+### Week 4- Divide and Conquer ([PDF](week4_divide_and_conquer/week4_divide_and_conquer.pdf))
+
+- [Binary Search](week4_divide_and_conquer/1_binary_search/binary_search.py)
+- [Majority Element](week4_divide_and_conquer/2_majority_element/majority_element.py)
+- [Improving QuickSort](week4_divide_and_conquer/3_improving_quicksort/sorting.py)
+- [Number of Inversions](week4_divide_and_conquer/4_number_of_inversions/inversions.py)
+- [Organizing a Lottery](week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py)
+- [Closest Points](week4_divide_and_conquer/6_closest_points/closest.py)
+
+### Week 5- Dynamic Programming 1 ([PDF](week5_dynamic_programming1/week5_dynamic_programming1.pdf))
+
+- [Money Change Again](week5_dynamic_programming1/1_money_change_again/change_dp.py)
+- [Primitive Calculator](week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.py)
+- [Edit Distance](week5_dynamic_programming1/3_edit_distance/edit_distance.py)
+- [Longest Common Subsequence of Two Sequence](week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.py)
+- [Longest Common Subsequence of Three Sequence](week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.py)
+
+### Week 6- Dynamic Programming 2 ([PDF](week6_dynamic_programming2/week6_dynamic_programming2.pdf))
+
+- [Maximum Amount of Gold](week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.py)
+- [Partitioning Souvenirs](week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py)
+- [Maximum Value of an Arithmetic Expression](week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.py)
+
+
+# Contributing
+
+All contributions are welcome. Just make a PR. Below is a list of general improvements that need to be added that I would love help with:
+- Improve documentation
+- Clean up code (adding docstrings)
+- Better algorithms that reduce time complexity
 
 
 
