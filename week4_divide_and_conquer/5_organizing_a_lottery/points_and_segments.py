@@ -5,17 +5,6 @@ from itertools import chain
 def fast_count_segments(starts, ends, points,n,m):
     cnt = [0] * len(points)
     #write your code here
-    '''lst = [(i,'s') for i in starts]+[(i,'e') for i in ends]+[(i,'p') for i in points]
-    lst.sort()
-    seg = 0
-    for i in lst:
-        if i[1] == 's':
-            seg += 1
-        elif i[1] == 'e':
-            seg -= 1
-        else:
-            cnt[points.index(i[0])] = seg
-    return cnt'''
 
     a,b,c = zip(starts,['l']*n,range(n)),zip(ends,['r']*n,range(n)),zip(points,['p']*m,range(m))
 
